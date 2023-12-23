@@ -72,7 +72,7 @@ const FirstPage = () => {
           ))}
         </motion.div>
         <a className={styles.email} href="mailto:example@example.com">
-          parsa.mokhtarpour98@gmail.com
+          parsamokhtarpour98@gmail.com
         </a>
       </div>
     </div>
