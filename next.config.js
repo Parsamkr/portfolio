@@ -6,7 +6,7 @@ const nextConfig = {
         protocol: "https",
         hostname: "menu.storage.iran.liara.space",
         port: "",
-        pathname: "/alireza-nikzad/**",
+        pathname: "/parsa-mokhtarpour/**",
       },
     ],
   },

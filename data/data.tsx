@@ -22,7 +22,6 @@ import { SiSwagger } from "react-icons/si";
 import { SiFigma } from "react-icons/si";
 import { SiAdobexd } from "react-icons/si";
 import { BsTrello } from "react-icons/bs";
-import { SiJirasoftware } from "react-icons/si";
 import { SiAdobephotoshop } from "react-icons/si";
 import { BsWordpress } from "react-icons/bs";
 
@@ -30,7 +29,7 @@ const socialMediaData = [
   // {
   //   name: "linkedin",
   //   icon: <GrLinkedin />,
-  //   url: "https://www.linkedin.com/in/alireza-nikzad/",
+  //   url: "https://www.linkedin.com/in/",
   // },
   {
     name: "github",
