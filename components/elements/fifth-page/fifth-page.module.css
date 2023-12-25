@@ -35,8 +35,7 @@
 .projectHolder h3 {
   text-transform: uppercase;
   font-size: 1.4rem;
-  white-space : nowrap;
-  /* text-decoration: underline; */
+  white-space: nowrap;
   font-weight: 700;
   font-size: 1.6rem;
 }
@@ -68,5 +67,8 @@
   }
   .projectHolder {
     width: 100%;
+  }
+  .projectHolder h3 {
+    white-space: pre-wrap;
   }
 }
